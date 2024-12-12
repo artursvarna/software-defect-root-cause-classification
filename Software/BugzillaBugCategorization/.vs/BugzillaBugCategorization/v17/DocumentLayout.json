@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\data\\json\\componentjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\data\\json\\componentjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\data\\json\\reportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\data\\json\\reportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\data\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\data\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\filejoiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\filejoiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|c:\\users\\owner\\source\\repos\\bugzillabugcategorization\\bugzillabugcategorization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\bugzillabugcategorization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAF52DA0-A0A2-41F6-ABB7-E7813E1C462F}|BugzillaBugCategorization\\BugzillaBugCategorization.csproj|solutionrelative:bugzillabugcategorization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\Report.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Data\\Report.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\Report.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\Data\\Report.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:42:08.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileJoiner.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\FileJoiner.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\FileJoiner.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\FileJoiner.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\FileJoiner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:29:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Form1.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Form1.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\Form1.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:27:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorizer.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Categorizer.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Categorizer.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Categorizer.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\Categorizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:26:38.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentJSON.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\JSON\\ComponentJSON.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Data\\JSON\\ComponentJSON.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\JSON\\ComponentJSON.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\Data\\JSON\\ComponentJSON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:13:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportJSON.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\JSON\\ReportJSON.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Data\\JSON\\ReportJSON.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Data\\JSON\\ReportJSON.cs",
+              "RelativeToolTip": "BugzillaBugCategorization\\Data\\JSON\\ReportJSON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:58:50.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Form1.cs",
+              "RelativeDocumentMoniker": "BugzillaBugCategorization\\Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\BugzillaBugCategorization\\BugzillaBugCategorization\\Form1.cs [Design]",
+              "RelativeToolTip": "BugzillaBugCategorization\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:12:43.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
