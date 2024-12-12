@@ -1,0 +1,29 @@
+﻿namespace BugzillaBugCategorization.Data
+{
+    public enum RC_Categories
+    {
+        InadequateRequirements,
+        CoverageSpecifications,
+        FunctionalityMissing,
+        IncorrectFunctionalDesign,
+        InterfacesSWHW,
+        UserInterface,
+        DeviationFromCoding,
+        VariableScope,
+        LogicalFlowOrSequencing,
+        IncorrectFunctionalMappingDesign,
+        LogicDescription,
+        TestingStandards,
+        TestingLogic,
+        DataHandling,
+        ImproperExecutionOfTestCases,
+        TestSWInterface,
+        TestHWInterface,
+        InadequateTestCoverage,
+        UIRelatedDefect,
+        Requirements,
+        Architecture,
+        Development,
+        Testing
+    }
+}

@@ -1,0 +1,1 @@
+[{"Id":3589,"Opening":"921075046","Reporter":"3853","VerificationStatus":"VERIFIED","ResolutionStatus":"FIXED","RootCauseCategory":"Testing","Components":["Bugzilla","Bugzilla-General"],"Description":["Changing component does not reset default Assigned/QA"]}]
